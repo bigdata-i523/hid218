@@ -23,7 +23,8 @@ paper1:
    - 218
    title: Big data's influence on e-commerce and lifestyle
    abstract: This paper showcases tis and that and the other
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+   url: https://github.com/bigdata-i523/hid218/paper1/paper1.pdf
+   status: in progress
 ```
    
 # Paper 2
@@ -36,7 +37,8 @@ paper2:
    - 000
    title: This is my paper about the other abc
    abstract: This paper showcases tis and that and the other in regards to abc
-   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
+   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
+   status: not started
 ```
 
 # Project 
