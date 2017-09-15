@@ -8,9 +8,9 @@
 
 ```
 owner:
-    hid: 000
-    name: Gregor von Laszewski
-    url: https://github.com/bigdata-i523/sample-hid000
+    hid: 218
+    name: Niu, Geng
+    url: https://github.com/bigdata-i523/hid218
 ```
 
 # Paper 1
@@ -18,12 +18,10 @@ owner:
 ```
 paper1:
    author: 
-   - Gregor von Laszewski
-   - Fugang Wang
+   - Niu, Geng
    hid:
-   - 000
-   - 001
-   title: This is my paper about xyz
+   - 218
+   title: Big data's influence on e-commerce and lifestyle
    abstract: This paper showcases tis and that and the other
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
 ```
