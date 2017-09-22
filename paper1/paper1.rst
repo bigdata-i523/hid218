@@ -1,5 +1,5 @@
-Tile: Big Data and baskerball
+Tile: Big Data's influence on ecommerce and lifestyle
 
-Author: Junjie Lu
+Author: Geng Niu
 
 Status: in progress
