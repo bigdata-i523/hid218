@@ -1,5 +1,5 @@
-Title: Big Data and basketball
+Title: Big Data's application in ecommerce
 
-Author: Junjie Lu
+Author: Geng Niu
 
 Status: in progress
