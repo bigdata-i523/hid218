@@ -1,8 +1,4 @@
 # hid218
-# Comments
-
-* Mind the ```quotes and do not forget them```
-* Remove all sections that you have not yet created a directory in github with so our automated scripts do not fail. Only add them if the 
 
 # Owner
 
@@ -24,7 +20,7 @@ paper1:
    title: Big data's influence on e-commerce and lifestyle
    abstract: This paper showcases tis and that and the other
    url: https://github.com/bigdata-i523/hid218/paper1/paper1.pdf
-   type: word
+   type:latex
    status: in progress/reading relevant papers and startting writing introduction
 ```
    
@@ -44,19 +40,14 @@ paper2:
 
 # Project 
 
-We will assign new pids for you when we approve the project and reports   
-Just use one type and delete the line with 
-
 ```
-paper2:
+project:
    type: project
-   type: report
    author: 
-   - Gregor von Laszewski
+   - Geng Niu
    hid:
-   - 000
-   title: Benchmarking a BigData Docker deployment
-   abstract: This paper showcases tis and that and the other 
-   url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
+   - 218
+   title: 
+   abstract: 
+   url: 
 ```
-   
