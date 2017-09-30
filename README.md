@@ -20,8 +20,8 @@ paper1:
    title: Big data's influence on e-commerce and lifestyle
    abstract: This paper showcases tis and that and the other
    url: https://github.com/bigdata-i523/hid218/paper1/paper1.pdf
-   type:latex
-   status: in progress/reading relevant papers and startting writing introduction
+   type: latex
+   status: in progress reading relevant papers and startting writing introduction
 ```
    
 # Paper 2
