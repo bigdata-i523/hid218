@@ -22,7 +22,7 @@ paper1:
    url: https://github.com/bigdata-i523/hid218/paper1/paper1.pdf
    type: latex
    status: in progress reading relevant papers and startting writing introduction
-   chapter: Buisiness
+   chapter: Business
 ```
    
 # Paper 2
