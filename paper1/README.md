@@ -2,4 +2,4 @@ Title: Big Data's influence on ecommerce and lifestyle
 
 Author: Geng Niu
 
-Status: Submitted
+Status: 100% 
