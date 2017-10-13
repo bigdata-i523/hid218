@@ -18,7 +18,7 @@ paper1:
    hid:
    - 218
    title: Big data's influence on e-commerce and lifestyle
-   abstract: This paper showcases tis and that and the other
+   abstract: Big data has become the buzz words in recent years and it exerts huge influence on e-commerce and our lifestyle. However, for the general public big data is still something mysterious. This paper will serve as a review of what ways big data is utilized to improve e-commerce and influence our daily life.
    url: https://github.com/bigdata-i523/hid218/paper1/paper1.pdf
    type: latex
    status: 100%
