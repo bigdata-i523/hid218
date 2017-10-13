@@ -21,8 +21,8 @@ paper1:
    abstract: This paper showcases tis and that and the other
    url: https://github.com/bigdata-i523/hid218/paper1/paper1.pdf
    type: latex
-   status: 10%
-   chapter: Business
+   status: 100%
+   chapter: Ecommerce
 ```
    
 # Paper 2
@@ -30,13 +30,13 @@ paper1:
 ```
 paper2:
    author: 
-   - Gregor von Laszewski
+   - Niu, Geng
    hid:
    - 000
    title: This is my paper about the other abc
    abstract: This paper showcases tis and that and the other in regards to abc
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
-   status: not started
+   status: in progress
 ```
 
 # Project 
