@@ -1,0 +1,38 @@
+---
+owner:
+    hid: 218
+    name: Niu, Geng
+    url: https://github.com/bigdata-i523/hid218
+paper1:
+    abstract: Big data has become the buzz words in recent years and it exerts huge
+        influence on e-commerce and our lifestyle. However, for the general public
+        big data is still something mysterious. This paper will serve as a review
+        of what ways big data is utilized to improve e-commerce and influence our
+        daily life.
+    author:
+        - Niu, Geng
+    chapter: Ecommerce
+    hid:
+        - 218
+    status: 100%
+    title: Big data's influence on e-commerce and lifestyle
+    type: latex
+    url: https://github.com/bigdata-i523/hid218/paper1/paper1.pdf
+paper2:
+    abstract: This paper showcases tis and that and the other in regards to abc
+    author:
+        - Niu, Geng
+    hid:
+        - 0
+    status: in progress
+    title: This is my paper about the other abc
+    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
+project:
+    abstract: null
+    author:
+        - Geng Niu
+    hid:
+        - 218
+    title: null
+    type: project
+    url: null
