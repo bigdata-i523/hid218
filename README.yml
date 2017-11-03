@@ -26,7 +26,7 @@ paper2:
     hid:
         - 0
     status: in progress
-    title: This is my paper about the other abc
+    title: How Big Data Transform Education
     url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
 project:
     abstract: null
