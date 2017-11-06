@@ -21,12 +21,12 @@ paper1:
     url: https://github.com/bigdata-i523/hid218/paper1/paper1.pdf
 paper2:
     review: Nov 6 2017
-    abstract: This paper showcases tis and that and the other in regards to abc
+    abstract: Educators have been searching for new approaches of teaching. In the past century, education has been tremendous progress in terms of teaching methods. However, a close look at these development reveals that development made in science and technologies drove these advances made in education. Therefore, it is very important for educators to explore the potential of big data in advancing education in this new century.
     author:
         - Niu, Geng
     hid:
-        - 0
-    status: in progress
+        - 218
+    status: 100%
     title: How Big Data Transform Education
     url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
 project:
