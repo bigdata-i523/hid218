@@ -29,12 +29,12 @@ paper2:
     status: 100%
     title: How Big Data Transform Education
     url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
-project:
-    abstract: null
+project: term paper
+    abstract: big data's application in edcaution
     author:
-        - Geng Niu
+        - Geng Niu and Weipeng Yang
     hid:
-        - 218
-    title: null
-    type: project
+        - 218 and 231
+    title: Big data's application in education
+    type: term paper
     url: null
