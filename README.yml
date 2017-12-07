@@ -29,6 +29,7 @@ paper2:
     status: 100%
     title: How Big Data Transform Education
     url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
+    chapter: Education
 project:
     abstract: >
       The development of big data is changing the society in a dynamic
