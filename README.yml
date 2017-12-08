@@ -31,6 +31,7 @@ paper2:
     url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
     chapter: Education
 project:
+    duplicate: True
     abstract: >
       The development of big data is changing the society in a dynamic
       way. With high speed internet and high penetration rate of
